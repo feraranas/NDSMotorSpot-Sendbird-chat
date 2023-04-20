@@ -6,14 +6,14 @@ Requirements:
 - npm or yarn
 
 To build, clone & enter in terminal:
-# npm install
+# > npm install
 
 or if using yarn
-# yarn install
+# > yarn install
 
 Afterwards, run:
-# npm start
-# yarn start
+# > npm start
+# > yarn start
 
 
 
